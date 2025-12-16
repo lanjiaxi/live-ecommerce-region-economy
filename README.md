@@ -1,0 +1,2 @@
+# live-ecommerce-region-economy
+直播电商对区域经济增长影响的实证分析代码，含相关性分析、克里金插值、面板回归
